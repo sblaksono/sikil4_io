@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>sikil4_io</name>
+  <version>0.0.1</version>
+  <description>The sikil4_io robot interface</description>
+
+  <maintainer email="bayu.laksono@gmail.com">Bayu Laksono</maintainer>
+
+  <license>BSD</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>roscpp</build_depend>
+  <build_depend>std_msgs</build_depend>
+  <build_export_depend>roscpp</build_export_depend>
+  <build_export_depend>std_msgs</build_export_depend>
+  <exec_depend>roscpp</exec_depend>
+  <exec_depend>std_msgs</exec_depend>
+
+  <export>
+
+  </export>
+</package>
